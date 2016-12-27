@@ -7,5 +7,16 @@ Good luck!
 
 ## Problem I:
 
-Quick Sort. [Solution](https://github.com/fingerection/go-interview-puzzles/blob/master/quicksort.go)  
+Quick Sort. 
+
+[Solution](https://github.com/fingerection/go-interview-puzzles/blob/master/quicksort.go)  
+
 [Comment](https://github.com/fingerection/go-interview-puzzles/blob/master/quicksort.md)
+
+## Problem II:
+
+Cache: Design a cache class which can hold N keys.
+
+[Solution](https://github.com/fingerection/go-interview-puzzles/blob/master/cache.go)  
+
+[Comment](https://github.com/fingerection/go-interview-puzzles/blob/master/cache.md)
