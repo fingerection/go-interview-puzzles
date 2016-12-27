@@ -5,8 +5,6 @@ Situation here is you have a puzzle solving interview at Google. You'll be told 
 
 Good luck!
 
-Problem I:
+## Problem I:
 
-Quick Sort.
-
-[Solution](https://github.com/fingerection/go-interview-puzzles/blob/master/quicksort.go)
+Quick Sort. [Solution](https://github.com/fingerection/go-interview-puzzles/blob/master/quicksort.go)  [Comment](https://github.com/fingerection/go-interview-puzzles/blob/master/quicksort.md)
