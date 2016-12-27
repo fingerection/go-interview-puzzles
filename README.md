@@ -9,4 +9,4 @@ Problem I:
 
 Quick Sort.
 
-(Solution)[https://github.com/fingerection/go-interview-puzzles/blob/master/quicksort.go] 
+[Solution](https://github.com/fingerection/go-interview-puzzles/blob/master/quicksort.go)
