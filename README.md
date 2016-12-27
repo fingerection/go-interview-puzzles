@@ -7,4 +7,5 @@ Good luck!
 
 ## Problem I:
 
-Quick Sort. [Solution](https://github.com/fingerection/go-interview-puzzles/blob/master/quicksort.go)  [Comment](https://github.com/fingerection/go-interview-puzzles/blob/master/quicksort.md)
+Quick Sort. [Solution](https://github.com/fingerection/go-interview-puzzles/blob/master/quicksort.go) 
+[Comment](https://github.com/fingerection/go-interview-puzzles/blob/master/quicksort.md)
